@@ -8,4 +8,3 @@ this is a simple java game that imitating IBM Donkey.BAS(1981) and this was writ
 
 
 ![](screenshots/ss3.png) 
-# old-project-donkey-game
